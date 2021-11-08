@@ -1,0 +1,10 @@
+body{
+   font-size: 15px;
+   background-color: #FFD100;
+}
+table,td,tr,th{
+  border: 15px solid #FAFFFF;
+  border-color: #FFFFFF;
+  border-collapse: collapse;
+  border-radius: 10px;
+}
